@@ -1,0 +1,10 @@
+# 개인 기록·토큰은 올리지 않기
+state.json
+history.json
+diary.json
+archive/
+attach/
+error.log
+persona_src.md
+__pycache__/
+*.pyc
